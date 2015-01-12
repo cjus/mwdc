@@ -5,7 +5,7 @@ Introduction to Modern Web Development
 
 The technical job market is becoming increasingly competitive. Companies large and small have plenty of individuals to choose from when it comes to filling roles. The candidates who stand out during interviews are the ones who both understand and have embraced modern and cutting-edge technologies and best practices. The candidates who are confident and well prepared are the ones well poised to land their dream jobs.
 
-Many educational institutions are well behind the times, teaching technologies which are considered aging by both startups and larger enterprises.
+Many educational institutions are well behind the times, teaching technologies which are considered less relevent by both startups and larger enterprises.
 
 This proposal seeks to outline a course curriculum which can be catered to various formats ranging from a one day boot camp (several hours) to a 4-7 week course. This course can also be customized as an introductory to advance course.  This proposal outlines how in later sections.
 
@@ -23,7 +23,7 @@ See the following popular examples:
 
 The primary goal of this course is to introduce students to modern web development practices whereby preparing them for today's competitive technical job market.
 
-It's often said that "we don't know - what we don't know". This course is aimed at giving students a lay of the land - a gentle - yet broad introduction into the various aspects of modern web development. As students gain an understanding of what's involved, we'll incrementally discuss each aspect in greater detail. During every step of the way students are exposed to free tools which they can use to explore topics in greater depth - in and outside of class. So a key goal in this course is to reveal a roadmap for further growth.
+It's often said that "we don't know - what we don't know". This course is aimed at giving students a lay of the land - a gentle - yet broad introduction into the various aspects of modern web development. As students gain an understanding of what's involved, we'll incrementally discuss each aspect in greater detail. During every step of the way students are exposed to free online resources which they can use to explore topics in greater depth - in and outside of class. So a key goal in this course is to reveal a roadmap for further growth.
 
 Upon completion of the course, students leave with an understanding of web development that can in various aspects exceed that of individuals already employed who haven't kept up with the fast paced march of technological advancements.  Furthermore, students leave with a set of software tools which they can freely utilize to build their own business, apply for employment or advancement in their current jobs.
 
@@ -50,7 +50,6 @@ This course is not intended to be an extensive hands-on introduction to computer
 ## Course materials
 
 Students won't need to purchase text books or other materials.  All of the books and software tools can be obtained freely and legally online. Students can continue exploring what they learn at the school's computer lab and on their own personal computers.
-
 
 ## Course syllabus
 
