@@ -17,6 +17,7 @@ See the following popular examples:
 
 * General Assembly, https://generalassemb.ly/
 * Fullstack Academy, http://www.fullstackacademy.com/
+* Hack Reactor, http://www.hackreactor.com/
 
 ## Course goals
 
