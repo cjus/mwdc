@@ -3,7 +3,7 @@ Introduction to Modern Web Development
 
 ## Introduction
 
-The technical job market is becoming increasingly competitive. Companies large and small have plenty of individuals to choose from when it comes to filling roles. The candidates who stand out during interviews are the ones who both understand and have embraced modern and cutting-edge technologies and best practices. The candidates who are confident and well prepared on the ones well posed to land their dream jobs.
+The technical job market is becoming increasingly competitive. Companies large and small have plenty of individuals to choose from when it comes to filling roles. The candidates who stand out during interviews are the ones who both understand and have embraced modern and cutting-edge technologies and best practices. The candidates who are confident and well prepared are the ones well poised to land their dream jobs.
 
 Many educational institutions are well behind the times, teaching technologies which are considered aging by both startups and larger enterprises.
 
@@ -23,9 +23,9 @@ See the following popular examples:
 
 The primary goal of this course is to introduce students to modern web development practices whereby preparing them for today's competitive technical job market.
 
-It's often said that "we don't know - what we don't know". This course is aimed at giving students a lay of the landscape - a gentle, yet broad introduction into the various aspects of modern web development. As students gain an understanding of what's involved, we'll incrementally discuss each aspect in greater detail. During every step of the way students are exposed to free tools which they can use to explore topics in greater depth - in and outside of class. So a key goal in this course is to reveal a roadmap for further growth.
+It's often said that "we don't know - what we don't know". This course is aimed at giving students a lay of the land - a gentle - yet broad introduction into the various aspects of modern web development. As students gain an understanding of what's involved, we'll incrementally discuss each aspect in greater detail. During every step of the way students are exposed to free tools which they can use to explore topics in greater depth - in and outside of class. So a key goal in this course is to reveal a roadmap for further growth.
 
-Upon completion of the course, students leave with an understanding of web development that can in various aspects exceed that of individuals already employed who haven't kept up with the fast paced march of technological advancements.  Further, students leave with a set of software tools which they can freely utilize to build their own business, apply for employment or advancement in their current jobs.
+Upon completion of the course, students leave with an understanding of web development that can in various aspects exceed that of individuals already employed who haven't kept up with the fast paced march of technological advancements.  Furthermore, students leave with a set of software tools which they can freely utilize to build their own business, apply for employment or advancement in their current jobs.
 
 ## Who should attend this course?
 
@@ -38,14 +38,14 @@ Students with prior knowledge will gain a deeper understanding of how to further
 * ***Current and future web entrepreneurs***:
 Current and future Internet entrepreneurs can get a sense of how successful products are built.  This is valuable regardless of whether they'll do the work themselves or contract others to build their products.  Understanding the correct way products are developed increases their odds of success.
 * ***Educators***: Educators looking to improve their understanding of how Internet services are built and how to best present current developments to their students.
-* ***Artist and designers***: Artistically inclined individuals who are interested in applying their talents to supporting Internet facing products.
+* ***Artists and designers***: Artistically inclined individuals who are interested in applying their talents to supporting Internet facing products.
 * ***Project managers***:
   * Managers who want to transition to managing web related projects.
   * Managers interested in understanding modern web development challenges in order to better manage their existing projects.
 * ***Business stakeholders***:
 
 ### What this course is not
-This course is not intended to be an extensive hands-on introduction to computer programming or software requirements gathering. While this course doesn't require students to already know a programming language, those who do have prior experience will gain the most for this course.  At all levels of exposure, students will benefit from a broad look at the state-of-the-art in web development and leave equipped to take what they'll learn and begin applying it to their own web interests and goals.
+This course is not intended to be an extensive hands-on introduction to computer programming or software requirements gathering. While this course doesn't require students to already know a programming language, those who do have prior experience will gain the most form this course.  At all levels of exposure, students will benefit from a broad look at the state-of-the-art in web development and will leave equipped to take what they've learned and begin applying it to their own  interests and goals.
 
 ## Course materials
 
@@ -56,7 +56,7 @@ Students won't need to purchase text books or other materials.  All of the books
 
 ### Course overview
 
-Upon completion of the course students will be able to:
+Upon completion students will be able to:
 
 * Express an understanding of modern web development and explain how it differs from the past.
 * Fully understand what is required to compete for today's technical job market.
